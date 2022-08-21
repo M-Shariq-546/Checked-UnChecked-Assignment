@@ -1,0 +1,48 @@
+#head{
+    color: black;
+    font-style: italic;
+    text-align: center;
+}
+
+#button{
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px 5px 5px 5px;
+    padding: 4px 4px 4px 4px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+#checked{
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px 5px 5px 5px;
+    padding: 4px 4px 4px 4px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+#unchecked{
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px 5px 5px 5px;
+    padding: 4px 4px 4px 4px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+#button:hover{
+    background-color: greenyellow;
+    color: black;
+    cursor: pointer;
+}
+#checked:hover{
+    background-color: greenyellow;
+    color: black;
+    cursor: pointer;
+}
+#unchecked:hover{
+    background-color: greenyellow;
+    color: black;
+    cursor: pointer;
+}
